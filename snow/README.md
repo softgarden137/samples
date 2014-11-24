@@ -1,7 +1,7 @@
 snow
 ====
 
-## [View Demo &rarr;](http://softgarden137.github.io/snow)
+## [View Demo &rarr;](http://softgarden137.github.io/samples/snow)
 
 ## Author & License
 
