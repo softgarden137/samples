@@ -1,7 +1,7 @@
 trigonometry2
 =============
 
-
+## [View Demo &rarr;](http://softgarden137.github.io/trigonometry2)
 
 softgarden137
 
