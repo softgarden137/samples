@@ -1,8 +1,6 @@
 samples
 =======
 
-## Author & License
-
 softgarden137
 
 - [Website](http://blog.goo.ne.jp/softgarden137)
