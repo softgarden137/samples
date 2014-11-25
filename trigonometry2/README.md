@@ -2,7 +2,6 @@ trigonometry2
 =============
 
 
-## Author & License
 
 softgarden137
 
