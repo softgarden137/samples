@@ -3,8 +3,6 @@ tile(transforms.simple)
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/tile)
 
-## Author & License
-
 softgarden137
 
 - [Website](http://blog.goo.ne.jp/softgarden137)
