@@ -3,7 +3,6 @@ samples
 IronPython Silverlight Web Page
 
 A web page scripted on the client side with IronPython via Silverligt
-
 ==========
 softgarden137
 
