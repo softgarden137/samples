@@ -1,4 +1,4 @@
-clock_calc
+Clock_Calc
 ==========
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/clock_calc)
