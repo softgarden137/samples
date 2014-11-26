@@ -1,5 +1,5 @@
-snow
-====
+snow(particles.simple)
+======================
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/snow)
 
