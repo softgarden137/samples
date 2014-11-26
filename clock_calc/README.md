@@ -1,5 +1,5 @@
-clock and calc
-==============
+clock_calc
+==========
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/clock_calc)
 
