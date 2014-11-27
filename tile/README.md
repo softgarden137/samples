@@ -1,5 +1,5 @@
-tile(transforms.simple)
-=======================
+tile (transforms.simple)
+========================
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/tile)
 
