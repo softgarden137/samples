@@ -1,5 +1,5 @@
-tile2(transform.advanced)
-=======================
+tile2 (transform.advanced)
+==========================
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/tile2)
 
