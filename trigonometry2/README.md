@@ -1,5 +1,5 @@
-trigonometry2
-=============
+trigonometry2 (advanced)
+========================
 
 ## [View Demo &rarr;](http://softgarden137.github.io/samples/trigonometry2)
 
