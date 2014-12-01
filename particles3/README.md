@@ -1,7 +1,7 @@
-particle3 (particles.advanced)
+particles3 (particles.advanced)
 ==============================
 
-## [View Demo &rarr;](http://www12.ocn.ne.jp/~s_garden/samples/particle3/SilverlightPageParticle3.html)
+## [View Demo &rarr;](http://www12.ocn.ne.jp/~s_garden/samples/particles3/SilverlightPageParticles3.html)
 
 softgarden137
 
