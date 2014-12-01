@@ -1,5 +1,5 @@
-particle2 (particles.medium)
-============================
+particles2 (particles.medium)
+=============================
 
 ## [View Demo &rarr;](http://www12.ocn.ne.jp/~s_garden/samples/particles2/SilverlightPageParticles2.html)
 
