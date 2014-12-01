@@ -1,7 +1,7 @@
 particle2 (particles.medium)
 ============================
 
-## [View Demo &rarr;](http://www12.ocn.ne.jp/~s_garden/samples/particle2/SilverlightPageParticle2.html)
+## [View Demo &rarr;](http://www12.ocn.ne.jp/~s_garden/samples/particles2/SilverlightPageParticles2.html)
 
 softgarden137
 
