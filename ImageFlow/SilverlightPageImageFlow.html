@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript">
+        window.DLR = { settings: { console: false } }
+    </script>
+    <script src="http://gestalt.ironpython.net/dlr-latest.js" type="text/javascript"></script>
+    <title>SilverlightPageImageFlow</title>
+    <style type="text/css">
+        html, body {
+            background-color: Black;
+        }
+    </style>
+</head>
+<body>
+    <img src="images/Autumn_Leaves.jpg" class="imageflow" width="50" />
+    <img src="images/Humpback_Whale.jpg" class="imageflow" width="50" />
+    <img src="images/Creek.jpg" class="imageflow" width="50" />
+    <img src="images/Desert_Landscape.jpg" class="imageflow" width="50" />
+    <img src="images/Dock.jpg" class="imageflow" width="50" />
+    <img src="images/Forest_Flowers.jpg" class="imageflow" width="50" />
+    <img src="images/Forest.jpg" width="50" class="imageflow" />
+    <img src="images/Frangipani_Flowers.jpg" class="imageflow" width="50" />
+    <img src="images/Garden.jpg" width="50" class="imageflow" />
+    <img src="images/Green_Sea_Turtle.jpg" class="imageflow" width="50" /><br />
+
+    <script type="text/javascript">
+        function GetClassName() {
+            return "imageflow";
+        }
+    </script>
+
+    <script type="text/python" class="Imageflow" src="Imageflow.py"></script>
+    <script type="application/xml+xaml" id="Imageflow" src="Imageflow.xaml" width="550" height="250"></script> 
+
+</body>
+</html>
