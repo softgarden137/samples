@@ -11,6 +11,7 @@ from System.Windows.Resources import * # for WebClient
 from System.Diagnostics import * # enables outputing to a debug window!
 from System.Windows.Markup import * # for XamlReader
 from Microsoft.Scripting.Silverlight.DynamicApplication import MakeUri
+from System.Windows.Media.Imaging import BitmapImage
 
 layoutRoot = me.LayoutRoot
 curves = me.curves
@@ -296,6 +297,11 @@ def setupNodes():
     
 def Main():
     global sb
+    
+    image_source = BitmapImage(MakeUri("images/bkg.png"))
+    me.bkg0.Source = image_source
+    me.bkg.Source = image_source
+
     sb = Storyboard()
     layoutRoot.Resources.Add("sb", sb)
     
