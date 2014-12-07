@@ -11,7 +11,7 @@ class PhotoParticle:
         #self.scene = Canvas()
         #Application.LoadComponent(self.scene, Uri('app.xaml', UriKind.Relative))
         self.scene = me # !
-        Application.Current.RootVisual = self.scene
+        #Application.Current.RootVisual = self.scene
         
         #self.scene.Loaded += self.onMainPageLoaded
         self.scene.MouseLeftButtonDown += self.onMouseLeftButtonDown
