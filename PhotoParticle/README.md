@@ -1,7 +1,7 @@
 PhtoParticle
 ============
 
-## [View Demo &rarr;](http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/SilverlightPagePhotoParticle.html)
+## [View Demo &rarr;](http://softgarden137.server-shared.com/samples/PhotoParticle/SilverlightPagePhotoParticle.html)
 
 softgarden137
 
