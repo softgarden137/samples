@@ -23,15 +23,15 @@ class PhotoParticle:
         self.bStarted = False
         
         self.random = Random().random
-        self.urls = ["http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/151357567_1feee2792a_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/439074330_bdc4c69e76_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/262008209_b51badb1b4_m.jpg",                                                                 
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/432960949_3bc5c86c9b_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/281646581_ba66b522bc_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/69521107_a2a48e3088_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/437559825_654f71d6db_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/422208375_8369c7cade_m.jpg",
-            "http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/438253880_8a61c50854_m.jpg",
+        self.urls = ["http://softgarden137.server-shared.com/samples/PhotoParticle/images/151357567_1feee2792a_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/439074330_bdc4c69e76_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/262008209_b51badb1b4_m.jpg",                                                                 
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/432960949_3bc5c86c9b_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/281646581_ba66b522bc_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/69521107_a2a48e3088_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/437559825_654f71d6db_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/422208375_8369c7cade_m.jpg",
+            "http://softgarden137.server-shared.com/samples/PhotoParticle/images/438253880_8a61c50854_m.jpg",
             ]
         self.chrs = ['A','B','C','D','E','F','G','H',
             'I','J','K','L','M','N',' O','P','Q',
@@ -264,7 +264,7 @@ newFlakeStr1 = "<Canvas RenderTransformOrigin='0.5, 0.5' Background='$color' Wid
 <Image Width='$1' Height='$1' Stretch='Fill' Source='"
 newFlakeStr2 =  "'> \
 <Image.OpacityMask> \
-<ImageBrush ImageSource='http://www12.ocn.ne.jp/~s_garden/samples/PhotoParticle/images/circle_mask.png'/> \
+<ImageBrush ImageSource='http://softgarden137.server-shared.com/samples/PhotoParticle/images/circle_mask.png'/> \
 </Image.OpacityMask> \
 </Image> \
 </Canvas>"
