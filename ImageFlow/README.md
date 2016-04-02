@@ -1,7 +1,7 @@
 ImageFlow
 =========
 
-## [View Demo &rarr;](http://softgarden137.server-shared.com/samples/Imageflow/SilverlightPageImageFlow.html)
+## [View Demo &rarr;](http://softgarden.lovepop.jp/samples/Imageflow/SilverlightPageImageFlow.html)
 
 softgarden137
 
