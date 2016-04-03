@@ -4,6 +4,6 @@
         Width="600" Height="300">
     <Canvas x:Name="LayoutRoot" Background="#222222">
         <Canvas x:Name="tiles"></Canvas>
-        <Image x:Name="cover" Source="http://www12.ocn.ne.jp/~s_garden/samples/transforms/images/cover.png" Width="600" Height="330" Stretch="Fill" Visibility="Collapsed"></Image>
+        <Image x:Name="cover" Source="softgarden.lovepop.jp/samples/transforms/images/cover.png" Width="600" Height="330" Stretch="Fill" Visibility="Collapsed"></Image>
     </Canvas>
 </UserControl>
