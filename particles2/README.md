@@ -1,7 +1,7 @@
 particles2 (particles.medium)
 =============================
 
-## [View Demo &rarr;](http://softgarden137.server-shared.com/samples/particles2/SilverlightPageParticles2.html)
+## [View Demo &rarr;](http://softgarden.lovepop.jp/samples/particles2/SilverlightPageParticles2.html)
 
 softgarden137
 
